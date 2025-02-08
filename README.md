@@ -1,45 +1,112 @@
 ---
 
-# Hi there, I'm Aman Singh! 👋  
+# ![GitHub Header](https://user-images.githubusercontent.com/89124765/223851353-d2932efe-605c-449a-a80d-c4924e494119.png)
 
-![GitHub Header Image](https://user-images.githubusercontent.com/89124765/223851353-d2932efe-605c-449a-a80d-c4924e494119.png)
+<h2 align="center">👋 Hey there! I'm Aman Singh </h2>
 
-## 💡 About Me  
-🎯 Passionate about programming, problem-solving, and exploring new technologies.  
-🌱 Currently learning **Data Structures & Algorithms, Web Development, and diving into new tech stacks**.  
-💻 Check out my projects: [GitHub Profile](https://github.com/Aman1919)  
-📫 Reach me at **amansingh33849@gmail.com**  
+<p align="center">
+  <em>💻 Passionate Developer | 🚀 Exploring Web Development | 🎯 DSA Enthusiast</em>
+</p>
 
-## 🌐 Connect with Me  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aman1919&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Aman1919?label=Followers&style=social" alt="GitHub Followers" />
+</p>
+
+---
+
+## 🔥 About Me
+
+- 🌱 I’m currently learning **Data Structures & Algorithms (DSA), Web Development, and exploring new technologies**  
+- 👨‍💻 All of my projects are available on **[GitHub](https://github.com/Aman1919)**  
+- 📫 How to reach me: **[amansingh33849@gmail.com](mailto:amansingh33849@gmail.com)**  
+- ⚡ Fun fact: I love solving challenging problems and building cool web apps!  
+
+---
+
+## 🚀 Tech Stack & Tools
+
 <p align="left">
-<a href="https://twitter.com/aman_0019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aman-singh-64a30b212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-darkgreen?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Version%20Control-Git-orange?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Styling-Bootstrap-blueviolet?style=for-the-badge&logo=bootstrap" />
 </p>
 
-## 🚀 Languages & Tools  
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aman1919&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Aman1919&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aman1919&theme=radical&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
 <p align="left">
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a> 
-<a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a> 
-<a href="https://expressjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> </a>
+  <a href="https://twitter.com/aman_0019" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://linkedin.com/in/aman-singh-64a30b212/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
-## 📊 GitHub Stats  
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman1919&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+---
+
+## 📚 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- 🚀 *Stay tuned for my upcoming articles!*
+<!-- BLOG-POST-LIST:END -->
+
+> _Want to see more? Check out my [blog](https://your-blog-link.com) for more insights!_
+
+---
+
+## 🎯 Fun Projects
+
+### 🚀 Featured Projects
+- [Chess Betting Web App](https://github.com/Aman1919/chess-betting) - A chess platform where users can place bets on chess matches.
+- [Weather App](https://github.com/Aman1919/weather-app) - A simple weather application built with React and OpenWeather API.
+- [Portfolio Website](https://github.com/Aman1919/portfolio) - My personal portfolio website showcasing my work and experience.
+
+> 🛠️ *More projects available on [GitHub](https://github.com/Aman1919)*
+
+---
+
+## ⚡ Random Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
 </p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aman1919&show_icons=true&locale=en" alt="GitHub Stats" />
+---
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman1919&theme=radical" alt="GitHub Activity Graph" />
 </p>
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman1919&" alt="GitHub Streak" />
-</p>
+---
+
+## 🚀 Let's Collaborate!
+
+💡 If you're interested in collaborating on a project, feel free to reach out via [email](mailto:amansingh33849@gmail.com) or [LinkedIn](https://linkedin.com/in/aman-singh-64a30b212/). I'm always open to new opportunities and collaborations!  
+
+⭐ **If you like my work, consider giving my repositories a star!** ⭐  
 
 ---
