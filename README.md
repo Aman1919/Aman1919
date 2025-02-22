@@ -67,27 +67,6 @@
 
 ---
 
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 *Stay tuned for my upcoming articles!*
-<!-- BLOG-POST-LIST:END -->
-
-> _Want to see more? Check out my [blog](https://your-blog-link.com) for more insights!_
-
----
-
-## 🎯 Fun Projects
-
-### 🚀 Featured Projects
-- [Chess Betting Web App](https://github.com/Aman1919/chess-betting) - A chess platform where users can place bets on chess matches.
-- [Weather App](https://github.com/Aman1919/weather-app) - A simple weather application built with React and OpenWeather API.
-- [Portfolio Website](https://github.com/Aman1919/portfolio) - My personal portfolio website showcasing my work and experience.
-
-> 🛠️ *More projects available on [GitHub](https://github.com/Aman1919)*
-
----
-
 ## ⚡ Random Developer Quote
 
 <p align="center">
